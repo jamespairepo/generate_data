@@ -37,7 +37,7 @@ data = [
         },
     }
 ]
-my_layout = Layout(title="global eqrthquakes")
+my_layout = Layout(title="Global Earthquakes")
 
 fig = {"data": data, "layout": my_layout}
 offline.plot(fig, filename="global_earthquakes.html")
