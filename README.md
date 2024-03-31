@@ -1,6 +1,6 @@
 # Matplotlib, Plotly Exercises
 
-# Webscraping and Interactive Visualizations
+### Webscraping and Interactive Visualizations
 
 ![screenshot](screenshots/earthquakes.png)
 
